@@ -14,3 +14,5 @@
 4. FrogJmp (**Correctness - 100% Right, Performance 44% Right**) 
 
     -> If the input is (3, 999111321, 7) the solution exceeded the time limit.
+    
+5. PermMissingElem (**Correctness - 100% Right, Performance - 100% Right**)
