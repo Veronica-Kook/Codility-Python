@@ -5,5 +5,4 @@
 
 1. BinaryGap (100% Right)
 
-2. OddOccurrencesInArray (55% Right)
-> RunTime Error
+2. OddOccurrencesInArray (55% Right) -> RunTime Error
