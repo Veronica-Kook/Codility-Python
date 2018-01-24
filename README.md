@@ -16,3 +16,9 @@
     -> If the input is (3, 999111321, 7) the solution exceeded the time limit.
     
 5. PermMissingElem (**Correctness - 100% Right, Performance - 100% Right**)
+
+6. TapeEquilibrium (**Correctness - 33% Right, Perfermance - 0% Right**)
+
+    -> The following issues have been detected: wrong answers, timeout errors.
+
+       For example, for the input [5, 6, 2, 4, 1] the solution returned a wrong answer (got 1 expected 4).
